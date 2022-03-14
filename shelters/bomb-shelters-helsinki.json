@@ -1,0 +1,2226 @@
+[
+  {
+    "id": 64256,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Agroksenmäki väestönsuoja",
+      "sv": "Agroksenmäki befolkningsskyddsrum",
+      "en": "Agroksenmäki bomb shelter"
+    },
+    "street_address": {
+      "fi": "Vanha talvitie 18",
+      "sv": "Gamla vintervägen 18",
+      "en": "Vanha talvitie 18"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.974937, 60.192394] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 0,
+    "object_type": "unit",
+    "score": 4.038997
+  },
+  {
+    "id": 8991,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Eläintarhan kallioväestönsuoja",
+      "sv": "Djurgårdsvägens bergskyddsrum",
+      "en": "Eläintarhantie bomb shelter"
+    },
+    "street_address": {
+      "fi": "Eläintarhantie 9",
+      "sv": "Djurgårdsvägen 9",
+      "en": "Eläintarhantie 9"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.939909, 60.182262] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 60,
+    "object_type": "unit",
+    "score": 1.0037366
+  },
+  {
+    "id": 8972,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Erottajan väestönsuoja",
+      "sv": "Skillnadens befolkningsskyddsrum",
+      "en": "Erottaja bomb shelter"
+    },
+    "street_address": {
+      "fi": "Yrjönkatu 3a",
+      "sv": "Georgsgatan 3a",
+      "en": "Yrjönkatu 3a"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.943378, 60.164856] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 8,
+    "object_type": "unit",
+    "score": 3.8299935
+  },
+  {
+    "id": 9009,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Etelä-Kontulan yhteiskalliosuoja",
+      "sv": "Södra Gårdsbacka gemensamma bergskyddsrum",
+      "en": "Etelä-Kontula common bomb shelter"
+    },
+    "street_address": { "fi": "Naapurintie 4-6", "sv": "Nabovägen 4-6" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.087189, 60.232727] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 39,
+    "object_type": "unit",
+    "score": 1.179632
+  },
+  {
+    "id": 66572,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": { "fi": "Gesterbyn väestönsuojan budolajien sali" },
+    "street_address": {
+      "fi": "Gesterbynkaari",
+      "sv": "Gesterbynkaari",
+      "en": "Gesterbynkaari"
+    },
+    "municipality": "kirkkonummi",
+    "location": { "type": "Point", "coordinates": [24.4405, 60.13154] },
+    "department": {
+      "id": "fd5f5037-cb78-4ee5-a9af-aa6a222443aa",
+      "name": {
+        "fi": "Sivistys ja vapaa-aikapalvelut",
+        "sv": "Bildnings- och fritidstjänsterna",
+        "en": "Sivistys ja vapaa-aikapalvelut"
+      },
+      "street_address": null,
+      "municipality": "kirkkonummi"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 27,
+    "object_type": "unit",
+    "score": 1.6296419
+  },
+  {
+    "id": 9002,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Graniittitien yhteiskalliosuoja",
+      "sv": "Granitvägens gemensamma bergskyddsrum",
+      "en": "Graniittitie common bomb shelter"
+    },
+    "street_address": { "fi": "Graniittitie 3-5", "sv": "Granitvägen 3-5" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.008036, 60.23441] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 47,
+    "object_type": "unit",
+    "score": 1.1399947
+  },
+  {
+    "id": 8973,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Hakaniemen metroaseman yleinen väestönsuoja",
+      "sv": "Allmänna befolkningsskyddsrummet på Hagnäs metrostation",
+      "en": "Hakaniemi Metro Station public bomb shelter"
+    },
+    "street_address": {
+      "fi": "Hakaniemen metroasema",
+      "sv": "Hagnäs metrostation"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.949787, 60.17945] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 16,
+    "object_type": "unit",
+    "score": 3.2060342
+  },
+  {
+    "id": 9003,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Herttoniemenrannan yhteiskalliosuoja",
+      "sv": "Hertonäs strands gemensamma bergskyddsrum",
+      "en": "Herttoniemenranta common bomb shelter"
+    },
+    "street_address": { "fi": "Laivalahdenkaari 27", "sv": "Båtsviksbågen 27" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.03216, 60.186897] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 42,
+    "object_type": "unit",
+    "score": 1.1538922
+  },
+  {
+    "id": 9005,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Itä-Pasilan yhteiskalliosuoja",
+      "sv": "Östra Böle gemensamma bergskyddsrum",
+      "en": "Itä-Pasila common bomb shelter"
+    },
+    "street_address": { "fi": "Kumpulantie 2", "sv": "Gumtäktsvägen 2" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.940119, 60.19677] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 33,
+    "object_type": "unit",
+    "score": 1.1914651
+  },
+  {
+    "id": 9004,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Itäkeskuksen uimahallin yhteiskalliosuoja",
+      "sv": "Östra centrums simhalls gemensamma bergskyddsrum",
+      "en": "Common bomb shelter at Itäkeskus Swimming Hall"
+    },
+    "street_address": { "fi": "Olavinlinnantie 6", "sv": "Olofborgsvägen 6" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.076853, 60.212772] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 40,
+    "object_type": "unit",
+    "score": 1.179632
+  },
+  {
+    "id": 9006,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Jakomäen yhteiskalliosuoja",
+      "sv": "Jakobacka gemensamma bergskyddsrum",
+      "en": "Jakomäki common bomb shelter"
+    },
+    "street_address": {
+      "fi": "Jakomäentie 6-8",
+      "sv": "Jakobackavägen 6-8",
+      "en": "Jakomäentie 6-8"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.070518, 60.256664] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 36,
+    "object_type": "unit",
+    "score": 1.1799598
+  },
+  {
+    "id": 8992,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Johanneksen puisto kallioväestönsuoja",
+      "sv": "Johanneksen puiston bergskyddsrum",
+      "en": "Johanneksen puisto's bomb shelter"
+    },
+    "street_address": {
+      "fi": "Laivurinrinne 5",
+      "sv": "Skepparebrinken 5",
+      "en": "Laivurinrinne 5"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.94332, 60.161774] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 58,
+    "object_type": "unit",
+    "score": 1.0128112
+  },
+  {
+    "id": 64293,
+    "contract_type": {
+      "id": "private_service",
+      "description": {
+        "fi": "yksityinen palvelu",
+        "sv": "privat tjänst",
+        "en": "private service"
+      }
+    },
+    "name": {
+      "fi": "Jätkäsaaren Rokkiparkki - väestönsuoja",
+      "sv": "Jätkäsaaren Rokkiparkki befolkningsskyddsrum",
+      "en": "Jätkäsaaren Rokkiparkki bomb shelter"
+    },
+    "street_address": {
+      "fi": "Välimerenkatu 12",
+      "sv": "Medelhavsgatan 12",
+      "en": "Välimerenkatu 12"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.91631, 60.159103] },
+    "department": {
+      "id": "7bc1cb18-1231-44ae-936f-18f29e31895e",
+      "name": {
+        "fi": "Jätkäsaaren Pysäköinti Oy",
+        "sv": "Busholmens Parkering Ab",
+        "en": "Jätkäsaaren Pysäköinti Oy"
+      },
+      "street_address": { "fi": "Välimerenkatu 12" },
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 25,
+    "object_type": "unit",
+    "score": 1.6659161
+  },
+  {
+    "id": 8993,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kaisaniemen metroaseman kallioväestönsuoja",
+      "sv": "Bergskyddsrummet på Kajsaniemi metrostation",
+      "en": "Kaisaniemi Metro Station bomb shelter"
+    },
+    "street_address": {
+      "fi": "Helsingin yliopiston metroasema",
+      "sv": "Helsingfors universitet metrostation",
+      "en": "Helsingin yliopiston metroasema"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.9479, 60.171528] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 56,
+    "object_type": "unit",
+    "score": 1.037806
+  },
+  {
+    "id": 8994,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kaisaniemi-Kluuvin kallioväestönsuoja",
+      "sv": "Bergskyddsrummet Kajsaniemi-Gloet",
+      "en": "Kaisaniemi-Kluuvi bomb shelter"
+    },
+    "street_address": { "fi": "Fabianinkatu 29", "sv": "Fabiansgatan 29" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.94959, 60.168148] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 52,
+    "object_type": "unit",
+    "score": 1.0469841
+  },
+  {
+    "id": 8974,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kampin metroaseman yleinen väestönsuoja",
+      "sv": "Allmänna befolkningsskyddsrummet på Kampens metrostation",
+      "en": "Kamppi Metro Station public bomb shelter"
+    },
+    "street_address": {
+      "fi": "Kampin metroasema",
+      "sv": "Kampens metrostation"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.930206, 60.16853] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 13,
+    "object_type": "unit",
+    "score": 3.3459883
+  },
+  {
+    "id": 8995,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kamppi-Forumin kallioväestönsuoja",
+      "sv": "Bergskyddsrummet Kampen-Forum",
+      "en": "Kamppi-Forum bomb shelter"
+    },
+    "street_address": { "fi": "Simonkatu 3", "sv": "Simonsgatan 3" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.936195, 60.169315] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 54,
+    "object_type": "unit",
+    "score": 1.0381023
+  },
+  {
+    "id": 8975,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kanavapuiston väestönsuoja",
+      "sv": "Kanalparkens befolkningsskyddsrum",
+      "en": "Kanavapuisto bomb shelter"
+    },
+    "street_address": {
+      "fi": "Katajanokanlaituri 3a",
+      "sv": "Skatuddskajen 3a",
+      "en": "Katajanokanlaituri 3a"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.958776, 60.16767] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 1,
+    "object_type": "unit",
+    "score": 3.9738328
+  },
+  {
+    "id": 8976,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kangasalantien väestönsuoja",
+      "sv": "Kangasalavägens befolkningsskyddsrum",
+      "en": "Kangasalantie bomb shelter"
+    },
+    "street_address": {
+      "fi": "Kangasalantie 12",
+      "sv": "Kangasalavägen 12",
+      "en": "Kangasalantie 12"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.955328, 60.197643] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 3,
+    "object_type": "unit",
+    "score": 3.9679887
+  },
+  {
+    "id": 39745,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kannusillanmäen väestönsuoja / Budosali 1",
+      "sv": "Kannbrobacken / Budosal 1"
+    },
+    "street_address": {
+      "fi": "Kannusillankatu 4",
+      "sv": "Kannbrogatan 4",
+      "en": "Kannusillankatu 4"
+    },
+    "municipality": "espoo",
+    "location": { "type": "Point", "coordinates": [24.652822, 60.20597] },
+    "department": {
+      "id": "b8eb3b35-a41c-415a-9c87-ae005d6906e5",
+      "name": { "fi": "Elinvoima" },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 28,
+    "object_type": "unit",
+    "score": 1.6296419
+  },
+  {
+    "id": 53611,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kannusillanmäen väestönsuoja / Budosali 2",
+      "sv": "Kannbrobacka / Budosal 2"
+    },
+    "street_address": {
+      "fi": "Kannusillankatu 4",
+      "sv": "Kannbrogatan 4",
+      "en": "Kannusillankatu 4"
+    },
+    "municipality": "espoo",
+    "location": { "type": "Point", "coordinates": [24.652733, 60.20598] },
+    "department": {
+      "id": "b8eb3b35-a41c-415a-9c87-ae005d6906e5",
+      "name": { "fi": "Elinvoima" },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 23,
+    "object_type": "unit",
+    "score": 1.7164707
+  },
+  {
+    "id": 53614,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kannusillanmäen väestönsuoja / Budosali 3",
+      "sv": "Kannbrobacka / Budosal 3"
+    },
+    "street_address": {
+      "fi": "Kannusillankatu 4",
+      "sv": "Kannbrogatan 4",
+      "en": "Kannusillankatu 4"
+    },
+    "municipality": "espoo",
+    "location": { "type": "Point", "coordinates": [24.652786, 60.20598] },
+    "department": {
+      "id": "b8eb3b35-a41c-415a-9c87-ae005d6906e5",
+      "name": { "fi": "Elinvoima" },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 26,
+    "object_type": "unit",
+    "score": 1.6659161
+  },
+  {
+    "id": 39524,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kannusillanmäen väestönsuoja / Kuntosali 1",
+      "sv": "Kannbrobacka / Gym 1",
+      "en": "Kannusillanmäki Sports Hall / Gym 1"
+    },
+    "street_address": {
+      "fi": "Kannusillankatu 4",
+      "sv": "Kannbrogatan 4",
+      "en": "Kannusillankatu 4"
+    },
+    "municipality": "espoo",
+    "location": { "type": "Point", "coordinates": [24.65239, 60.205948] },
+    "department": {
+      "id": "b8eb3b35-a41c-415a-9c87-ae005d6906e5",
+      "name": { "fi": "Elinvoima" },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 29,
+    "object_type": "unit",
+    "score": 1.6296419
+  },
+  {
+    "id": 53613,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kannusillanmäen väestönsuoja / Kuntosali 2",
+      "sv": "Kannbrobacka / Gym 2",
+      "en": "Kannusillanmäki Sports Hall / Gym 2"
+    },
+    "street_address": {
+      "fi": "Kannusillankatu 4",
+      "sv": "Kannbrogatan 4",
+      "en": "Kannusillankatu 4"
+    },
+    "municipality": "espoo",
+    "location": { "type": "Point", "coordinates": [24.652447, 60.205948] },
+    "department": {
+      "id": "b8eb3b35-a41c-415a-9c87-ae005d6906e5",
+      "name": { "fi": "Elinvoima" },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 30,
+    "object_type": "unit",
+    "score": 1.6296419
+  },
+  {
+    "id": 39523,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kannusillanmäen väestönsuoja / Liikuntasali",
+      "sv": "Kannbrobacken / Idrottssal"
+    },
+    "street_address": {
+      "fi": "Kannusillankatu 4",
+      "sv": "Kannbrogatan 4",
+      "en": "Kannusillankatu 4"
+    },
+    "municipality": "espoo",
+    "location": { "type": "Point", "coordinates": [24.652414, 60.206127] },
+    "department": {
+      "id": "b8eb3b35-a41c-415a-9c87-ae005d6906e5",
+      "name": { "fi": "Elinvoima" },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 22,
+    "object_type": "unit",
+    "score": 1.7215593
+  },
+  {
+    "id": 57352,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kannusillanmäen väestönsuojan liikuntatilat",
+      "sv": "Kannbrobacken idrottområden",
+      "en": "Kannusillanmäki Sports Hall"
+    },
+    "street_address": {
+      "fi": "Kannusillankatu 4",
+      "sv": "Kannbrogatan 4",
+      "en": "Kannusillankatu 4"
+    },
+    "municipality": "espoo",
+    "location": { "type": "Point", "coordinates": [24.653118, 60.206146] },
+    "department": {
+      "id": "b8eb3b35-a41c-415a-9c87-ae005d6906e5",
+      "name": { "fi": "Elinvoima" },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 21,
+    "object_type": "unit",
+    "score": 1.7219905
+  },
+  {
+    "id": 9007,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Karstulantien yhteiskalliosuoja",
+      "sv": "Karstulavägens gemensamma bergskyddsrum",
+      "en": "Karstulantie common bomb shelter"
+    },
+    "street_address": { "fi": "Karstulantie 4", "sv": "Karstulavägen 4" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.9535, 60.197704] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 48,
+    "object_type": "unit",
+    "score": 1.1399947
+  },
+  {
+    "id": 9008,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kastelholmantien yhteiskalliosuoja",
+      "sv": "Kastelholmsvägens gemensamma bergskyddsrum",
+      "en": "Kastelholmantie common bomb shelter"
+    },
+    "street_address": { "fi": "Olavinlinnantie 3", "sv": "Olofborgsvägen 3" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.078089, 60.212944] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 43,
+    "object_type": "unit",
+    "score": 1.1538922
+  },
+  {
+    "id": 8977,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Katri Valan puiston väestönsuoja",
+      "sv": "Befolkningsskyddsrummet i Katri Valas park",
+      "en": "Katri Vala Park bomb shelter"
+    },
+    "street_address": {
+      "fi": "Vilhonvuorenkatu 9a",
+      "sv": "Vilhelmsbergsgatan 9a",
+      "en": "Vilhonvuorenkatu 9a"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.964174, 60.18648] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 14,
+    "object_type": "unit",
+    "score": 3.2302492
+  },
+  {
+    "id": 44964,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": { "fi": "Kauniaisten palloiluhalli", "sv": "Grankullas bollhall" },
+    "street_address": {
+      "fi": "Asematie 23",
+      "sv": "Stationsvägen 23",
+      "en": "Asematie 23"
+    },
+    "municipality": "kauniainen",
+    "location": { "type": "Point", "coordinates": [24.718067, 60.216606] },
+    "department": {
+      "id": "2cd6c260-07cc-43df-bc36-a737338ddda0",
+      "name": {
+        "fi": "Kulttuuri- ja vapaa-aika, Kauniainen",
+        "sv": "Kultur- och fritid, Grankulla",
+        "en": "Kulttuuri- ja vapaa-aika, Kauniainen"
+      },
+      "street_address": {
+        "fi": "Kauniaistentie 10",
+        "sv": "Grankullavägen 10",
+        "en": "Kauniaistentie 10"
+      },
+      "municipality": "kauniainen"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 63,
+    "object_type": "unit",
+    "score": 0.32029092
+  },
+  {
+    "id": 14454,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kauniaisten väestönsuoja",
+      "sv": "Grankulla befolkningsskydd"
+    },
+    "street_address": {
+      "fi": "Oppilaskodintie 11",
+      "sv": "Elevhemsvägen 11",
+      "en": "Oppilaskodintie 11"
+    },
+    "municipality": "kauniainen",
+    "location": { "type": "Point", "coordinates": [24.714554, 60.21781] },
+    "department": {
+      "id": "309b5d67-d3b2-49b5-966a-8a3f984158ac",
+      "name": {
+        "fi": "Yhdyskuntatoimi, Kauniainen",
+        "sv": "Samhällstekniken, Grankulla",
+        "en": "Yhdyskuntatoimi, Kauniainen"
+      },
+      "street_address": null,
+      "municipality": "kauniainen"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 19,
+    "object_type": "unit",
+    "score": 2.212797
+  },
+  {
+    "id": 65798,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": { "fi": "Keskustan väestönsuojan budosali" },
+    "street_address": {
+      "fi": "Kirkkotallintie 8",
+      "sv": "Kirkkotallintie 8",
+      "en": "Kirkkotallintie 8"
+    },
+    "municipality": "kirkkonummi",
+    "location": { "type": "Point", "coordinates": [24.436731, 60.12375] },
+    "department": {
+      "id": "fd5f5037-cb78-4ee5-a9af-aa6a222443aa",
+      "name": {
+        "fi": "Sivistys ja vapaa-aikapalvelut",
+        "sv": "Bildnings- och fritidstjänsterna",
+        "en": "Sivistys ja vapaa-aikapalvelut"
+      },
+      "street_address": null,
+      "municipality": "kirkkonummi"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 24,
+    "object_type": "unit",
+    "score": 1.7164707
+  },
+  {
+    "id": 66476,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kirkkonummen väestönsuojan monitoimihalli",
+      "sv": "Kyrkslätt skyddsrummets idrottshall"
+    },
+    "street_address": {
+      "fi": "Kirkkotallintie 6",
+      "sv": "Kirkkotallintie 6",
+      "en": "Kirkkotallintie 6"
+    },
+    "municipality": "kirkkonummi",
+    "location": { "type": "Point", "coordinates": [24.436829, 60.123886] },
+    "department": {
+      "id": "fd5f5037-cb78-4ee5-a9af-aa6a222443aa",
+      "name": {
+        "fi": "Sivistys ja vapaa-aikapalvelut",
+        "sv": "Bildnings- och fritidstjänsterna",
+        "en": "Sivistys ja vapaa-aikapalvelut"
+      },
+      "street_address": null,
+      "municipality": "kirkkonummi"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 31,
+    "object_type": "unit",
+    "score": 1.6296419
+  },
+  {
+    "id": 8978,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kluuvin tunnelin yleinen väestönsuoja",
+      "sv": "Allmänna befolkningsskyddsrummet i Gloets tunnel",
+      "en": "Kluuvi Tunnel public bomb shelter"
+    },
+    "street_address": { "fi": "Puutarhakatu 1", "sv": "Trädgårdsgatan 1" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.948524, 60.173107] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 17,
+    "object_type": "unit",
+    "score": 3.2060342
+  },
+  {
+    "id": 9011,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Kulosaaren yhteiskalliosuoja",
+      "sv": "Brändö gemensamma bergskyddsrum",
+      "en": "Kulosaari common bomb shelter"
+    },
+    "street_address": {
+      "fi": "Svinhufvudintie 9-11",
+      "sv": "Svinhufvudsvägen 9-11"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.011185, 60.188084] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 41,
+    "object_type": "unit",
+    "score": 1.179632
+  },
+  {
+    "id": 8979,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Laajalahden väestönsuoja",
+      "sv": "Bredvikss befolkningsskyddsrum",
+      "en": "Laajalahti bomb shelter"
+    },
+    "street_address": {
+      "fi": "Laajalahdentie 11a",
+      "sv": "Bredviksvägen 11a",
+      "en": "Laajalahdentie 11a"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.87596, 60.197655] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 5,
+    "object_type": "unit",
+    "score": 3.9670691
+  },
+  {
+    "id": 9012,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Lehtisaaren yhteiskalliosuoja",
+      "sv": "Lövö gemensamma bergskyddsrum",
+      "en": "Lehtisaari common bomb shelter"
+    },
+    "street_address": {
+      "fi": "Tykistökapteenintie 2a",
+      "sv": "Artillerikaptenens väg 2a",
+      "en": "Tykistökapteenintie 2a"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.849184, 60.18002] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 34,
+    "object_type": "unit",
+    "score": 1.1914651
+  },
+  {
+    "id": 9013,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Liusketien yhteiskalliosuoja",
+      "sv": "Skiffervägens gemensamma bergskyddsrum",
+      "en": "Liusketie common bomb shelter"
+    },
+    "street_address": { "fi": "Liusketie 4", "sv": "Skiffervägen 4" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.012325, 60.235146] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 37,
+    "object_type": "unit",
+    "score": 1.1799598
+  },
+  {
+    "id": 9014,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Maunulan yhteiskalliosuoja",
+      "sv": "Månsas gemensamma bergskyddsrum",
+      "en": "Maunula common bomb shelter"
+    },
+    "street_address": { "fi": "Maunulanmäki 5", "sv": "Månsasbacken 5" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.928106, 60.2279] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 49,
+    "object_type": "unit",
+    "score": 1.1399947
+  },
+  {
+    "id": 9015,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Mellunmäen yhteiskalliosuoja",
+      "sv": "Mellungsbacka gemensamma bergskyddsrum",
+      "en": "Mellunmäki common bomb shelter"
+    },
+    "street_address": { "fi": "Laakavuorentie 8", "sv": "Bredbergsvägen 8" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.113798, 60.24077] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 44,
+    "object_type": "unit",
+    "score": 1.1538922
+  },
+  {
+    "id": 8996,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Merihaka kallioväestönsuoja",
+      "sv": "Havshagen bergskyddsrum",
+      "en": "Merihaka bomb shelter"
+    },
+    "street_address": {
+      "fi": "Sörnäisten rantatie 6a",
+      "sv": "Sörnäs strandväg 6a",
+      "en": "Sörnäisten rantatie 6a"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.954332, 60.179718] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 61,
+    "object_type": "unit",
+    "score": 1.0037366
+  },
+  {
+    "id": 9017,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Myllypuron yhteiskalliosuoja",
+      "sv": "Kvarnbäckens gemensamma bergskyddsrum",
+      "en": "Myllypuro common bomb shelter"
+    },
+    "street_address": { "fi": "Yläkivenrinne 1", "sv": "Ovanstensbrinken 1" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.069654, 60.22164] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 35,
+    "object_type": "unit",
+    "score": 1.1914651
+  },
+  {
+    "id": 8981,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Nervanderinkatu väestönsuoja",
+      "sv": "Nervandersgatans befolkningsskyddsrum",
+      "en": "Nervanderinkatu bomb shelter"
+    },
+    "street_address": {
+      "fi": "Nervanderinkatu 8a",
+      "sv": "Nervandersgatan 8a",
+      "en": "Nervanderinkatu 8a"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.928753, 60.173286] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 6,
+    "object_type": "unit",
+    "score": 3.9670691
+  },
+  {
+    "id": 9018,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Niemenmäen yhteiskalliosuoja",
+      "sv": "Näshöjdens gemensamma bergskyddsrum",
+      "en": "Niemenmäki common bomb shelter"
+    },
+    "street_address": { "fi": "Lapinmäentie 1", "sv": "Labbackavägen 1" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.882349, 60.20573] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 38,
+    "object_type": "unit",
+    "score": 1.1799598
+  },
+  {
+    "id": 9010,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Pohjois-Kontulan yhteiskalliosuoja",
+      "sv": "Norra Gårdsbacka gemensamma bergskyddsrum",
+      "en": "Pohjois-Kontula common bomb shelter"
+    },
+    "street_address": {
+      "fi": "Kotikonnuntie 6 vastapäätä",
+      "sv": "Hemgårdsvägen 6 mittemot"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.086811, 60.23951] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 45,
+    "object_type": "unit",
+    "score": 1.1538922
+  },
+  {
+    "id": 9019,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Porolahden yhteiskalliosuoja",
+      "sv": "Porovikens gemensamma bergskyddsrum",
+      "en": "Porolahti common bomb shelter"
+    },
+    "street_address": { "fi": "Porolahdenpuisto", "sv": "Poroviksparken" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.04852, 60.19266] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 50,
+    "object_type": "unit",
+    "score": 1.1399947
+  },
+  {
+    "id": 8997,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Rautatientorin metroaseman kallioväestönsuoja",
+      "sv": "Bergskyddsrummet på Järnvägstorgets metrostation",
+      "en": "Rautatientori Metro Station bomb shelter"
+    },
+    "street_address": {
+      "fi": "Rautatientorin metroasema",
+      "sv": "Järnvägstorgets metrostation"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.940353, 60.17058] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 59,
+    "object_type": "unit",
+    "score": 1.0128112
+  },
+  {
+    "id": 9021,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Roihupellon yhteiskalliosuoja",
+      "sv": "Kasåkerns gemensamma bergskyddsrum",
+      "en": "Roihupelto common bomb shelter"
+    },
+    "street_address": {
+      "fi": "Laippatie 7 vastapäätä",
+      "sv": "Flänsvägen 7 mittemot"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.048151, 60.210136] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 51,
+    "object_type": "unit",
+    "score": 1.1399947
+  },
+  {
+    "id": 8982,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Ruoholahden metroaseman yleinen väestönsuoja",
+      "sv": "Allmänna befolkningsskyddsrummet på Gräsvikens metrostation",
+      "en": "Ruoholahti Metro Station public bomb shelter"
+    },
+    "street_address": {
+      "fi": "Ruoholahden metroasema",
+      "sv": "Gräsviken metrostation"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.914776, 60.16313] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 11,
+    "object_type": "unit",
+    "score": 3.3545692
+  },
+  {
+    "id": 8983,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Siltavuori väestönsuoja",
+      "sv": "Brobergskajens befolkningsskyddsrum",
+      "en": "Siltavuorenranta bomb shelter"
+    },
+    "street_address": {
+      "fi": "Siltavuorenranta 14",
+      "sv": "Brobergskajen 14",
+      "en": "Siltavuorenranta 14"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.953993, 60.17647] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 4,
+    "object_type": "unit",
+    "score": 3.9679887
+  },
+  {
+    "id": 9195,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Suomenlinnan yleinen kalliosuoja",
+      "sv": "Sveaborgs allmänna befolkningsskyddsrum",
+      "en": "Suomenlinna public bomb shelter"
+    },
+    "street_address": { "fi": "Suomenlinna C" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.992004, 60.14627] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 55,
+    "object_type": "unit",
+    "score": 1.0381023
+  },
+  {
+    "id": 8985,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Sörnäisten metroaseman yleinen väestönsuoja",
+      "sv": "Allmänna befolkningsskyddsrummet på Sörnäs metrostation",
+      "en": "Sörnäinen Metro Station public bomb shelter"
+    },
+    "street_address": {
+      "fi": "Sörnäisten metroasema",
+      "sv": "Sörnäs metrostation"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.96081, 60.187786] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 18,
+    "object_type": "unit",
+    "score": 3.2060342
+  },
+  {
+    "id": 8986,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Temppeliaukion väestönsuoja",
+      "sv": "Tempelplatsens befolkningsskyddsrum",
+      "en": "Temppeliaukio bomb shelter"
+    },
+    "street_address": {
+      "fi": "Oksasenkatu 2",
+      "sv": "Oksanengatan 2",
+      "en": "Oksasenkatu 2"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.924341, 60.173763] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 7,
+    "object_type": "unit",
+    "score": 3.9670691
+  },
+  {
+    "id": 8984,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Tiilimäki väestönsuoja",
+      "sv": "Tegelbackens befolkningsskyddsrum",
+      "en": "Tiilimäki bomb shelter"
+    },
+    "street_address": {
+      "fi": "Rantapolku 7c",
+      "sv": "Strandstigen 7c",
+      "en": "Rantapolku 7c"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.870846, 60.196674] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 9,
+    "object_type": "unit",
+    "score": 3.8299935
+  },
+  {
+    "id": 8998,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Toivolan kallioväestönsuoja",
+      "sv": "Toivola bergskyddsrum",
+      "en": "Toivola bomb shelter"
+    },
+    "street_address": { "fi": "Mikkolankuja 1", "sv": "Mickelsgränden 1" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.966345, 60.240864] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 57,
+    "object_type": "unit",
+    "score": 1.037806
+  },
+  {
+    "id": 8987,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Torkkelinmäki väestönsuoja",
+      "sv": "Torkelsbackens befolkningsskyddsrum",
+      "en": "Torkkelinmäki bomb shelter"
+    },
+    "street_address": {
+      "fi": "Helsinginkatu 10c",
+      "sv": "Helsingegatan 10c",
+      "en": "Helsinginkatu 10c"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.955338, 60.187046] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 2,
+    "object_type": "unit",
+    "score": 3.9738328
+  },
+  {
+    "id": 8999,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Toukola kallioväestönsuoja",
+      "sv": "Majstads bergskyddsrum",
+      "en": "Toukola bomb shelter"
+    },
+    "street_address": {
+      "fi": "Floorantie 3a",
+      "sv": "Floravägen 3a",
+      "en": "Floorantie 3a"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.968897, 60.20519] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 53,
+    "object_type": "unit",
+    "score": 1.0469841
+  },
+  {
+    "id": 66832,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Tuulimäen liikuntahalli / väestönsuoja",
+      "sv": "Väderbackens idrottshall / befolkningsskydd",
+      "en": "Tuulimäki Sports hall"
+    },
+    "street_address": {
+      "fi": "Itätuulenkuja 9",
+      "sv": "Östanvindsgränden 9",
+      "en": "Itätuulenkuja 9"
+    },
+    "municipality": "espoo",
+    "location": { "type": "Point", "coordinates": [24.805847, 60.173595] },
+    "department": {
+      "id": "b8eb3b35-a41c-415a-9c87-ae005d6906e5",
+      "name": { "fi": "Elinvoima" },
+      "street_address": null,
+      "municipality": "espoo"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 32,
+    "object_type": "unit",
+    "score": 1.6296419
+  },
+  {
+    "id": 8988,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Tähtitorni 1 väestönsuoja",
+      "sv": "Observatorieberget 1 befolkningsskyddsrum",
+      "en": "Tähtitorninvuori 1 bomb shelter"
+    },
+    "street_address": {
+      "fi": "Laivasillankatu 20",
+      "sv": "Skeppsbrogatan 20",
+      "en": "Laivasillankatu 20"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.953444, 60.16183] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 12,
+    "object_type": "unit",
+    "score": 3.3467746
+  },
+  {
+    "id": 64274,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Tähtitorni 2 väestönsuoja",
+      "sv": "befolkningsskyddsrum",
+      "en": "Tähtitorni 2 bomb shelter"
+    },
+    "street_address": {
+      "fi": "Fabianinkatu 1a",
+      "sv": "Fabiansgatan 1a",
+      "en": "Fabianinkatu 1a"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.95003, 60.16283] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 15,
+    "object_type": "unit",
+    "score": 3.2302492
+  },
+  {
+    "id": 8989,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Valpurinpuisto väestönsuoja",
+      "sv": "Valborgsparkens befolkningsskyddsrum",
+      "en": "Valpurinpuisto bomb shelter"
+    },
+    "street_address": {
+      "fi": "Kuusitie 12a",
+      "sv": "Granvägen 12a",
+      "en": "Kuusitie 12a"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [24.89747, 60.194195] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 10,
+    "object_type": "unit",
+    "score": 3.8299935
+  },
+  {
+    "id": 9022,
+    "contract_type": {
+      "id": "municipal_service",
+      "description": {
+        "fi": "kunnallinen palvelu",
+        "sv": "kommunal tjänst",
+        "en": "municipal service"
+      }
+    },
+    "name": {
+      "fi": "Vesalan yhteiskalliosuoja",
+      "sv": "Ärvings gemensamma bergskyddsrum",
+      "en": "Vesala common bomb shelter"
+    },
+    "street_address": { "fi": "Varhelantie 4", "sv": "Varhelavägen 4" },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.105595, 60.24082] },
+    "department": {
+      "id": "420121e5-e673-4549-b4fb-1d9347fb2cc1",
+      "name": {
+        "fi": "Pelastuslaitos",
+        "sv": "Räddningsverket",
+        "en": "Rescue Department"
+      },
+      "street_address": null,
+      "municipality": "helsinki"
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 46,
+    "object_type": "unit",
+    "score": 1.1538922
+  },
+  {
+    "id": 64294,
+    "contract_type": {
+      "id": "private_service",
+      "description": {
+        "fi": "yksityinen palvelu",
+        "sv": "privat tjänst",
+        "en": "private service"
+      }
+    },
+    "name": {
+      "fi": "Viikin väestönsuoja",
+      "sv": "Viikki befolkningsskyddsrum",
+      "en": "Viikki bomb shelter"
+    },
+    "street_address": {
+      "fi": "Mustialankatu 8",
+      "sv": "Mustialagatan 8",
+      "en": "Mustialankatu 8"
+    },
+    "municipality": "helsinki",
+    "location": { "type": "Point", "coordinates": [25.022217, 60.22776] },
+    "department": {
+      "id": "75ffb98a-0de3-461d-92e0-a115ccc6ca81",
+      "name": {
+        "fi": "Senaattikiinteistöt",
+        "sv": "Senaattikiinteistöt",
+        "en": "Senaattikiinteistöt"
+      },
+      "street_address": {
+        "fi": "Lintulahdenkatu 5 A",
+        "sv": "Lintulahdenkatu 5 A",
+        "en": "Lintulahdenkatu 5 A"
+      },
+      "municipality": null
+    },
+    "accessibility_shortcoming_count": {},
+    "sort_index": 20,
+    "object_type": "unit",
+    "score": 2.1361332
+  },
+  {
+    "name": {
+      "fi": "yleiset väestönsuojat",
+      "sv": "allmänna befolkningsskyddsrum",
+      "en": "general public shelters"
+    },
+    "id": 815,
+    "period_enabled": false,
+    "clarification_enabled": false,
+    "keywords": {},
+    "root_service_node": 1061,
+    "unit_count": {
+      "municipality": { "kauniainen": 2, "helsinki": 28 },
+      "total": 30
+    },
+    "sort_index": 62,
+    "object_type": "service",
+    "score": 0.7817946
+  }
+]
