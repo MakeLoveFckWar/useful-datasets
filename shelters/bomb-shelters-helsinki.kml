@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Agroksenmäki bomb shelter</name>
+      <Point>
+        <coordinates>24.974937,60.192394,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Eläintarhantie bomb shelter</name>
+      <Point>
+        <coordinates>24.939909,60.182262,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Erottaja bomb shelter</name>
+      <Point>
+        <coordinates>24.943378,60.164856,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Etelä-Kontula common bomb shelter</name>
+      <Point>
+        <coordinates>25.087189,60.232727,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name></name>
+      <Point>
+        <coordinates>24.4405,60.13154,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Graniittitie common bomb shelter</name>
+      <Point>
+        <coordinates>25.008036,60.23441,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Hakaniemi Metro Station public bomb shelter</name>
+      <Point>
+        <coordinates>24.949787,60.17945,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Herttoniemenranta common bomb shelter</name>
+      <Point>
+        <coordinates>25.03216,60.186897,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Itä-Pasila common bomb shelter</name>
+      <Point>
+        <coordinates>24.940119,60.19677,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Common bomb shelter at Itäkeskus Swimming Hall</name>
+      <Point>
+        <coordinates>25.076853,60.212772,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Jakomäki common bomb shelter</name>
+      <Point>
+        <coordinates>25.070518,60.256664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Johanneksen puisto&#39;s bomb shelter</name>
+      <Point>
+        <coordinates>24.94332,60.161774,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>private service yksityinen palvelu</description>
+      <name>Jätkäsaaren Rokkiparkki bomb shelter</name>
+      <Point>
+        <coordinates>24.91631,60.159103,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kaisaniemi Metro Station bomb shelter</name>
+      <Point>
+        <coordinates>24.9479,60.171528,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kaisaniemi-Kluuvi bomb shelter</name>
+      <Point>
+        <coordinates>24.94959,60.168148,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kamppi Metro Station public bomb shelter</name>
+      <Point>
+        <coordinates>24.930206,60.16853,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kamppi-Forum bomb shelter</name>
+      <Point>
+        <coordinates>24.936195,60.169315,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kanavapuisto bomb shelter</name>
+      <Point>
+        <coordinates>24.958776,60.16767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kangasalantie bomb shelter</name>
+      <Point>
+        <coordinates>24.955328,60.197643,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name></name>
+      <Point>
+        <coordinates>24.652822,60.20597,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name></name>
+      <Point>
+        <coordinates>24.652733,60.20598,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name></name>
+      <Point>
+        <coordinates>24.652786,60.20598,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kannusillanmäki Sports Hall / Gym 1</name>
+      <Point>
+        <coordinates>24.65239,60.205948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kannusillanmäki Sports Hall / Gym 2</name>
+      <Point>
+        <coordinates>24.652447,60.205948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name></name>
+      <Point>
+        <coordinates>24.652414,60.206127,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kannusillanmäki Sports Hall</name>
+      <Point>
+        <coordinates>24.653118,60.206146,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Karstulantie common bomb shelter</name>
+      <Point>
+        <coordinates>24.9535,60.197704,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kastelholmantie common bomb shelter</name>
+      <Point>
+        <coordinates>25.078089,60.212944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Katri Vala Park bomb shelter</name>
+      <Point>
+        <coordinates>24.964174,60.18648,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name></name>
+      <Point>
+        <coordinates>24.718067,60.216606,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name></name>
+      <Point>
+        <coordinates>24.714554,60.21781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name></name>
+      <Point>
+        <coordinates>24.436731,60.12375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name></name>
+      <Point>
+        <coordinates>24.436829,60.123886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kluuvi Tunnel public bomb shelter</name>
+      <Point>
+        <coordinates>24.948524,60.173107,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Kulosaari common bomb shelter</name>
+      <Point>
+        <coordinates>25.011185,60.188084,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Laajalahti bomb shelter</name>
+      <Point>
+        <coordinates>24.87596,60.197655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Lehtisaari common bomb shelter</name>
+      <Point>
+        <coordinates>24.849184,60.18002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Liusketie common bomb shelter</name>
+      <Point>
+        <coordinates>25.012325,60.235146,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Maunula common bomb shelter</name>
+      <Point>
+        <coordinates>24.928106,60.2279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Mellunmäki common bomb shelter</name>
+      <Point>
+        <coordinates>25.113798,60.24077,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Merihaka bomb shelter</name>
+      <Point>
+        <coordinates>24.954332,60.179718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Myllypuro common bomb shelter</name>
+      <Point>
+        <coordinates>25.069654,60.22164,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Nervanderinkatu bomb shelter</name>
+      <Point>
+        <coordinates>24.928753,60.173286,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Niemenmäki common bomb shelter</name>
+      <Point>
+        <coordinates>24.882349,60.20573,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Pohjois-Kontula common bomb shelter</name>
+      <Point>
+        <coordinates>25.086811,60.23951,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Porolahti common bomb shelter</name>
+      <Point>
+        <coordinates>25.04852,60.19266,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Rautatientori Metro Station bomb shelter</name>
+      <Point>
+        <coordinates>24.940353,60.17058,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Roihupelto common bomb shelter</name>
+      <Point>
+        <coordinates>25.048151,60.210136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Ruoholahti Metro Station public bomb shelter</name>
+      <Point>
+        <coordinates>24.914776,60.16313,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Siltavuorenranta bomb shelter</name>
+      <Point>
+        <coordinates>24.953993,60.17647,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Suomenlinna public bomb shelter</name>
+      <Point>
+        <coordinates>24.992004,60.14627,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Sörnäinen Metro Station public bomb shelter</name>
+      <Point>
+        <coordinates>24.96081,60.187786,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Temppeliaukio bomb shelter</name>
+      <Point>
+        <coordinates>24.924341,60.173763,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Tiilimäki bomb shelter</name>
+      <Point>
+        <coordinates>24.870846,60.196674,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Toivola bomb shelter</name>
+      <Point>
+        <coordinates>24.966345,60.240864,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Torkkelinmäki bomb shelter</name>
+      <Point>
+        <coordinates>24.955338,60.187046,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Toukola bomb shelter</name>
+      <Point>
+        <coordinates>24.968897,60.20519,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Tuulimäki Sports hall</name>
+      <Point>
+        <coordinates>24.805847,60.173595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Tähtitorninvuori 1 bomb shelter</name>
+      <Point>
+        <coordinates>24.953444,60.16183,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Tähtitorni 2 bomb shelter</name>
+      <Point>
+        <coordinates>24.95003,60.16283,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Valpurinpuisto bomb shelter</name>
+      <Point>
+        <coordinates>24.89747,60.194195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>municipal service kunnallinen palvelu</description>
+      <name>Vesala common bomb shelter</name>
+      <Point>
+        <coordinates>25.105595,60.24082,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>private service yksityinen palvelu</description>
+      <name>Viikki bomb shelter</name>
+      <Point>
+        <coordinates>25.022217,60.22776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description></description>
+      <name>general public shelters</name>
+    </Placemark>
+  </Document>
+</kml>
